@@ -1,0 +1,11 @@
+{
+  "name": "TAKUYA",
+  "symbol": "TAKUYA",
+  "description": "Takuya's Ejaculation: 3000 Yen.",
+  "image": "https://raw.githubusercontent.com/studyyou517/takuya-token/main/TAKUYA.png",
+  "external_url": "https://twitter.com/TAKUYA_TOKEN",
+  "attributes": [
+    { "trait_type": "Meme Number", "value": "3000" },
+    { "trait_type": "Meme Number", "value": "9315" }
+  ]
+}
